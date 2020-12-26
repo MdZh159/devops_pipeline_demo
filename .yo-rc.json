@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mouad.devops_pipeline_demo",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "devops_pipeline_demo",
+    "packageName": "com.mouad.devops_pipeline_demo",
+    "packageFolder": "com/mouad/devops_pipeline_demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGFhY2Y3ZTAyODUyNjc5OTZjMGM0ZGU0NjVjMzczM2Y5YzYxM2Q1YzQyZmI1NjdjNWNjYjk5NTc0M2IwYzNhYWE0ZGJlOThjYTEwZGEyZWY5NjhmYTQ3ZTkzNDcxZDZkMDRmZWI0MWNhOWQ0OGYyMWY4YzNlNzkyODRlOTYxNmY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1608992604975,
+    "testFrameworks": ["gatling", "cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": []
+  }
+}
