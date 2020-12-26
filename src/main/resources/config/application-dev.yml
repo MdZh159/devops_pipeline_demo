@@ -46,7 +46,7 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:postgresql://localhost:5432/devops_pipeline_demo
-    username: devops_pipeline_demo
+    username: postgres
     password:
     hikari:
       poolName: Hikari
